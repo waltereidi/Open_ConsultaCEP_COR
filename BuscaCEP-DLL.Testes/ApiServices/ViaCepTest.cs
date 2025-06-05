@@ -30,7 +30,7 @@ namespace BuscaCEP_DLL.Testes.ApiServices
         {
             var result = _service.GetResponse().Result;
 
-            Assert.IsNotNull(result);
+            Assert.IsNotNull(result.IsSuccessfullOperation());
             
         }
     }
