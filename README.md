@@ -14,4 +14,4 @@
 <h2>Testes de unidade</h2>
 <p> Testes de unidade com enfase em agilidade e descritivos.</p>
 
-<h2>Compatível com .net Framework 4.0 á .Net core8</h2>
+<h2>Compatível com .net Framework 4.8 á .Net core8</h2>
